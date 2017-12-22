@@ -1,6 +1,6 @@
 ---
-title: Our Coffee
-type: products
+title: Yearly Events
+type: Events
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
